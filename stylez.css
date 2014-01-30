@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+}
+h1 {
+  margin-top: 0;
+}
+.wrapper {
+  width: 90%;
+  max-width: 1000px;
+  margin: 100px auto;
+}
+.face-container {
+  float: left;
+}
+.myface {
+  height: 300px;
+}
+.self-effacing-auto-biography {
+  padding-left: 30px;
+  overflow: hidden;
+}
