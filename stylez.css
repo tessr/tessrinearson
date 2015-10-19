@@ -12,10 +12,22 @@ h1 {
 .face-container {
   float: left;
 }
+.face-container .caption {
+  max-width: 300px;
+  margin-top: 3px;
+  font-size: 14px;
+  color: #bababa;
+  font-style: italic;
+}
 .myface {
   height: 300px;
 }
 .self-effacing-auto-biography {
-  padding-left: 30px;
+  padding-left: 50px;
   overflow: hidden;
+}
+
+.bloop {
+  width: 20px;
+  margin: 10px auto;
 }
